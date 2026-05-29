@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsencrypt",
+        "uuid": 1628851,
+        "checksum": "6xr1h5"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
